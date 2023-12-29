@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumasri1?tab=projects](https://github.com/Sumasri1?tab=projects)
 
-- 💬 Ask me about **Risk Management**
+- 💬 Ask me about **Risk Management(Security,Compliance)**
 
 - 📫 How to reach me **sumasripvsj@gmail.com**
 
