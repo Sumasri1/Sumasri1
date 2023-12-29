@@ -1,5 +1,5 @@
 ![logo](https://github.com/Sumasri1/Sumasri1/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm LAKKA SUMA SRI</h1>
+<h1 align="center">Hi Everyone 👋, I'm LAKKA SUMA SRI</h1>
 <h3 align="center">A passionate Risk Analyst from India</h3>
 
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/a034f9ccd09e1d5f09cae408937e035d33fb1c616361f53a39bd050ab68d1b67/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966" data-canonical-src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">"
